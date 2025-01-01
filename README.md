@@ -3,6 +3,9 @@
 This project is an open-source bash script for calculating simple interest.  
 It is developed to help the community and serves as an example of moving code from SVN to Git.  
 
+<br>
+Author - Harsh Patel
+
 ## Features  
 - Calculate simple interest using a bash script  
 - Includes community guidelines and open-source licensing  
